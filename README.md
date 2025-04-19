@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @SergioArt-97 - Sergy Art
+- 👀 I’m interested in DevOps, CI/CD, Python, Virtualization
+- 🌱 I’m currently learning DevOps engieneering
+- 💞️ I’m looking to collaborate on projects with passion
+- 📫 How to reach me SergeiArt97@gmail.com
+- ⚡ Fun fact: i got 3 cats
